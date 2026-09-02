@@ -9,7 +9,7 @@ habe ich auch jeweils readme und Ordner mit Bildern angelegt um ihnen meine Proj
 
 Ich habe Stand August 2026 etwa 3 Wochen angeleiteten Programmierunterricht in Java gehabt, 
 habe aber währendessen und davor/danach versucht mich selbstständig weiterzubilden.
-Alles was hier zu sehen war zusätzlich zum Unterricht selbstständig erlernt.
+Alles was hier zu sehen ist, war zusätzlich zum Unterricht selbstständig erlernt.
 
 Ich arbeite auch privat an Spieleprogrammierung in Godot, wozu ich die Sprache gdscript lerne 
 und habe ihnen mein aktuelles Projekt als Projektdaten beigefügt.
