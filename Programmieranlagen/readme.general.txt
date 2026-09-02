@@ -11,7 +11,7 @@ Ich habe Stand August 2026 etwa 3 Wochen angeleiteten Programmierunterricht in J
 habe aber währendessen und davor/danach versucht mich selbstständig weiterzubilden.
 Alles was hier zu sehen war zusätzlich zum Unterricht selbstständig erlernt.
 
-Ich arbeite auch privat an Spieleprogrammierung in Godot, wozu ich die SPrache gdscript lerne 
+Ich arbeite auch privat an Spieleprogrammierung in Godot, wozu ich die Sprache gdscript lerne 
 und habe ihnen mein aktuelles Projekt als Projektdaten beigefügt.
 
 Falls sie es tatsächlich spielen sollten:
